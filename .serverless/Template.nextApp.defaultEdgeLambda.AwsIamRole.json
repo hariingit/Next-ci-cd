@@ -2,8 +2,8 @@
   "name": "h7chwun-64dxwpn",
   "arn": "arn:aws:iam::626548101921:role/h7chwun-64dxwpn",
   "service": [
-    "lambda.amazonaws.com",
-    "edgelambda.amazonaws.com"
+    "edgelambda.amazonaws.com",
+    "lambda.amazonaws.com"
   ],
   "policy": {
     "Version": "2012-10-17",
